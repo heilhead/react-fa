@@ -1,6 +1,6 @@
 {
-  "name": "react-fa",
-  "version": "5.0.0",
+  "name": "@heilhead/react-fa",
+  "version": "6.0.0",
   "description": "Font Awesome icons as React components",
   "main": "lib/index.js",
   "dependencies": {
