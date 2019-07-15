@@ -4,7 +4,7 @@
   "description": "Font Awesome icons as React components",
   "main": "lib/index.js",
   "dependencies": {
-    "font-awesome": "^5.9.0",
+    "@fortawesome/fontawesome-free": "^5.9.0",
     "prop-types": "^15.5.8"
   },
   "peerDependencies": {
